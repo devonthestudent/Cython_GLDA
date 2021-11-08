@@ -1,1 +1,0 @@
-from myfirstpythonpackage.python_part.fib import fib
